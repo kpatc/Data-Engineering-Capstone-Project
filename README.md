@@ -17,3 +17,5 @@ The purpose of this project is to build a robust data platform for retail data a
  #### ETL Task using shell python scripts to perform all tasks
  #### ETL using Airflow DAG to process web logs of the e-commerce site 
 
+ 
+## thanks IBM to give me this opportunity to developp my skills in DE
